@@ -6,4 +6,6 @@
 - SMPT ile log gönderme
 
   ### YouTube Linki
-  
+  ```
+  https://www.youtube.com/shorts/ZYfa60uj6_s
+  ```
