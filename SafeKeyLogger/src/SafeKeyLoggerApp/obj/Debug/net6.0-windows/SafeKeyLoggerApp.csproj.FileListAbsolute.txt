@@ -1,0 +1,16 @@
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\bin\Debug\net6.0-windows\SafeKeyLoggerApp.exe
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\bin\Debug\net6.0-windows\SafeKeyLoggerApp.dll
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\obj\Debug\net6.0-windows\SafeKeyLoggerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\obj\Debug\net6.0-windows\SafeKeyLoggerApp.AssemblyInfoInputs.cache
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\obj\Debug\net6.0-windows\SafeKeyLoggerApp.AssemblyInfo.cs
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\obj\Debug\net6.0-windows\SafeKeyLoggerApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\obj\Debug\net6.0-windows\SafeKeyLoggerApp.dll
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\obj\Debug\net6.0-windows\refint\SafeKeyLoggerApp.dll
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\obj\Debug\net6.0-windows\SafeKeyLoggerApp.pdb
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\bin\Debug\net6.0-windows\SafeKeyLoggerApp.deps.json
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\bin\Debug\net6.0-windows\SafeKeyLoggerApp.runtimeconfig.json
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\bin\Debug\net6.0-windows\SafeKeyLoggerApp.pdb
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\obj\Debug\net6.0-windows\SafeKeyLoggerApp.genruntimeconfig.cache
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\obj\Debug\net6.0-windows\ref\SafeKeyLoggerApp.dll
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\obj\Debug\net6.0-windows\SafeKeyLoggerApp.MainForm.resources
+C:\Users\Asus-PC\Downloads\SafeKeyLogger\SafeKeyLogger\src\SafeKeyLoggerApp\obj\Debug\net6.0-windows\SafeKeyLoggerApp.csproj.GenerateResource.cache
